@@ -2,6 +2,7 @@
 
 - [组内资料分享](#组内资料分享)
   - [0. Paper-Reading-Group (论文分享)](#Paper-Reading-Group)
+  - [1. Slides(PPT分享)](https://github.com/genemine/journalClub/tree/main/slides)
 
 ## Paper-Reading-Group
 
