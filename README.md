@@ -3,9 +3,15 @@
 ## Paper-Reading-Group
 
 List shared papers in our group
+# 组内资料分享
+
+## Paper-Reading-Group
+
+List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2021.6.25 | 刘祎玮  | [《Pathway-based subnetworks enable cross-disease biomarker discovery》(*Nature communication. 2018*)](https://www.nature.com/articles/s41467-018-07021-3  |[SIMMS.ppt](https://github.com/genemine/journalClub/blob/main/slides/SIMMS.pptx)   |Pathway subnetwork及生存分析|
 | 2021.6.23 | 伍振鹏  | [《Prevalent intron retention fine-tunes gene expression and contributes to cellular senescence》(*Aging Cell. 2020*)](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13276)  |[IR_senescence.ppt](https://github.com/genemine/journalClub/blob/main/slides/IR_senescence.pptx)   |内含子保留|
 | 2021.6.1 | 刘坤  | [《SRHiC: A Deep Learning Model to Enhance the Resolution of Hi-C Data》(*Front. Genet. 2020*)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00353/full)  |[SRHiC.ppt](https://github.com/genemine/journalClub/blob/main/slides/SRHiC.pptx)   |Hi-C数据增强|
 | 2021.5.11 | 杨昌获  | [《PeNGaRoo, a combined gradient boosting and ensemble learning framework for predicting non-classical secreted proteins》(*Bioinformatics 2020*)](https://academic.oup.com/bioinformatics/article/36/3/704/5545087)  |[modelensemble.ppt](https://github.com/genemine/journalClub/blob/main/slides/modelensemble.pptx)   |模型集成|
