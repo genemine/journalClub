@@ -11,6 +11,7 @@ List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2021.7.6 | 张超  | [《Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis》(*Nature communication. 2020*)](https://www.nature.com/articles/s41467-020-15851-3)  |[DESC.ppt](https://github.com/genemine/journalClub/blob/main/slides/DESC.pptx)   |单细胞聚类|
 | 2021.6.25 | 刘祎玮  | [《Pathway-based subnetworks enable cross-disease biomarker discovery》(*Nature communication. 2018*)](https://www.nature.com/articles/s41467-018-07021-3)  |[SIMMS.ppt](https://github.com/genemine/journalClub/blob/main/slides/SIMMS.pptx)   |Pathway subnetwork及生存分析|
 | 2021.6.23 | 伍振鹏  | [《Prevalent intron retention fine-tunes gene expression and contributes to cellular senescence》(*Aging Cell. 2020*)](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13276)  |[IR_senescence.ppt](https://github.com/genemine/journalClub/blob/main/slides/IR_senescence.pptx)   |内含子保留|
 | 2021.6.1 | 刘坤  | [《SRHiC: A Deep Learning Model to Enhance the Resolution of Hi-C Data》(*Front. Genet. 2020*)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00353/full)  |[SRHiC.ppt](https://github.com/genemine/journalClub/blob/main/slides/SRHiC.pptx)   |Hi-C数据增强|
