@@ -11,7 +11,7 @@ List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 2022.03.02 | 张孝琪 | [《SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS》(ICLR 2017)](https://arxiv.org/abs/1609.02907)| [semiGCN.pptx](https://github.com/genemine/journalClub/blob/main/slides/semiGCN.pptx)| GCN |
+| 2022.03.02 | 张孝琪 | [《SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS》(ICLR 2017)](https://openreview.net/forum?id=SJU4ayYgl)| [semiGCN.pptx](https://github.com/genemine/journalClub/blob/main/slides/semiGCN.pptx)| GCN |
 | 2021.12.24 | 张超 | [《Ensemble dimensionality reduction and feature gene extraction for single-cell RNA-seq data》](https://www.nature.com/articles/s41467-020-19465-7)| [EDGE.pptx](https://github.com/genemine/journalClub/blob/main/slides/EDGE.pptx)| 单细胞降维和特征选择 |
 | 2021.12.17 | 伍振鹏 | [《Deep neural networks identify sequence context features predictive of transcription factor binding》(*Nature Machine Intelligence 2021*)](https://www.nature.com/articles/s42256-020-00282-y)| [zheng2021AgentBind.pptx](https://github.com/genemine/journalClub/blob/main/slides/zheng2021AgentBind.pptx)| 转录因子结合预测 |
 | 2021.11.11 | 刘海 | [《Prioritization of disease genes from GWAS using ensemble based positive unlabeled learning》(*nature  european journal of human genetics 2021*)](https://www.nature.com/articles/s41431-021-00930-w)| [PULearning.pptx](https://github.com/genemine/journalClub/blob/main/slides/PULearning.pptx)| 疾病基因预测 |
