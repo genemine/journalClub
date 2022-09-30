@@ -11,7 +11,7 @@ List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 2022.9.20 | 黄文魁  | [《Variant to function mapping at single-cell resolution through network propagation》(Nature Biotechnology 2022)](https:/ / doi.org/10.1038/ s41587-022-01341-y) |[2022_SCAVENGE.ppt](https://github.com/genemine/journalClub/blob/main/slides/2022_SCAVENGE.pptx)| 单细胞 |
+| 2022.9.20 | 黄文魁  | [《Variant to function mapping at single-cell resolution through network propagation》(Nature Biotechnology 2022)](https://doi.org/10.1038/s41587-022-01341-y) |[2022_SCAVENGE.ppt](https://github.com/genemine/journalClub/blob/main/slides/2022_SCAVENGE.pptx)| 单细胞 |
 | 2022.9.06 | 刘佳淑  | [《Genetic control of RNA splicing and its distinct role in complex trait variation》(Nature Genetics 2022)](https://doi.org/10.1038/s41588-022-01154-4) |[THISTLE.ppt](https://github.com/genemine/journalClub/blob/main/slides/THISTLE.pptx)| sQTL   |
 | 2022.06.16 | 张孝琪 | [《Graph Self-Supervised Learning: A Survey》](https://ieeexplore.ieee.org/abstract/document/9770382)| [图自监督学习.pptx](https://github.com/genemine/journalClub/blob/main/slides/%E5%9B%BE%E8%87%AA%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.pptx)| 自监督学习 |
 | 2022.03.02 | 张孝琪 | [《SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS》(ICLR 2017)](https://openreview.net/forum?id=SJU4ayYgl)| [semiGCN.pptx](https://github.com/genemine/journalClub/blob/main/slides/semiGCN.pptx)| GCN |
