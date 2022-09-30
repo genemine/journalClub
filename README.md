@@ -11,6 +11,7 @@ List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2022.9.06 | 刘佳淑  | [《Genetic control of RNA splicing and its distinct role in complex trait variation》(Nature Genetics 2022)](https://doi.org/10.1038/s41588-022-01154-4) |[ROGUE.ppt](https://github.com/genemine/journalClub/blob/main/slides/THISTLE.pptx)| sQTL   |
 | 2022.06.16 | 张孝琪 | [《Graph Self-Supervised Learning: A Survey》](https://ieeexplore.ieee.org/abstract/document/9770382)| [图自监督学习.pptx](https://github.com/genemine/journalClub/blob/main/slides/%E5%9B%BE%E8%87%AA%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.pptx)| 自监督学习 |
 | 2022.03.02 | 张孝琪 | [《SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS》(ICLR 2017)](https://openreview.net/forum?id=SJU4ayYgl)| [semiGCN.pptx](https://github.com/genemine/journalClub/blob/main/slides/semiGCN.pptx)| GCN |
 | 2021.12.24 | 张超 | [《Ensemble dimensionality reduction and feature gene extraction for single-cell RNA-seq data》](https://www.nature.com/articles/s41467-020-19465-7)| [EDGE.pptx](https://github.com/genemine/journalClub/blob/main/slides/EDGE.pptx)| 单细胞降维和特征选择 |
