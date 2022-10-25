@@ -1,0 +1,10 @@
+1. 初始文件：read counts file
+行表示基因；列表示样本
+
+2. 标准化read counts为FPKM或者CPM或者TPM
+
+3.规定阈值，去除低表达基因。
+以FPKM为例：设定FPKM的cutoff=1，则每个基因的Expression Ratio（ER）=（该基因中表达量大于cutoff的样本数）/(该基因总样本数)
+根据每个基因的ER值，规定ER>=0.5的保留，其他的去除
+
+4，将筛选出的基因做对数化处理：FPKM`=log2（FPKM+1）
